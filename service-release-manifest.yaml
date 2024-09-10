@@ -5,7 +5,7 @@
 #uc3-mrt-access-stg: 1.8.19
 #uc3-mrt-audit-prd: 1.8.9
 #uc3-mrt-audit-stg: demo-2.0.0
-uc3-mrt-audit-stg: 1.8.9
+uc3-mrt-audit-stg: 1.9.0
 #uc3-mrt-ingest-prd: 1.0.26
 #uc3-mrt-ingest-stg: 1.0.20
 #uc3-mrt-inventory-prd: 1.8.3
