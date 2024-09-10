@@ -1,2 +1,2 @@
-# mrt-tomcat-state-manifest
-Data structure defining the semantic version state of all Merritt Tomcat applications
+# mrt-service-release-manifest
+Data structure defining the semantic version state of all Merritt applications
