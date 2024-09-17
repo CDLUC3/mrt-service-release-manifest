@@ -28,7 +28,49 @@ that FQSN.
 
 
 
+### Migration Checklist
+
+This is a list of tasks to complete migration of subservice environments from
+previous Capistrano based deployment to the new `mrt-tomcat-deploy` workflow.
+
+1. **puppet ready** - apply new `uc3_mrt_tomcat_deploy` puppet module to reconfigure Tomcat service directory structure
+1. **build ready** - Maven build of Java package and WAR asset is staged in CodeArtifact repository
+1. **manifest ready** - semantic version (build tag) of deployable build is posted in [service release manifest][ReleaseManifest]
+1. **deploy success** - a full deployment and service restart using `mrt-tomcat-deploy` was successful
+1. **purge cap dirs** - clean up obsolete directories on Tomcat servers formerly used by capistrano
+
+
+The following tables track the migration process for each FQSN:
+
+**FQSN Migration Status**
+| FQSN                  | puppet ready | build ready | manifest ready | deploy success | purge cap dirs |
+| --------------------- | ------------ | ----------- | -------------- | -------------- | -------------- |
+| uc3-mrt-access-stg    |              |             |                |                |                |
+| uc3-mrt-audit-stg     |              | 1.9.0       | yes            | yes            |                |
+| uc3-mrt-ingest-stg    |              |             |                |                |                |
+| uc3-mrt-inventory-stg |              |             |                |                |                |
+| uc3-mrt-replic-stg    |              |             |                |                |                |
+| uc3-mrt-store-stg     |              |             |                |                |                |
+| uc3-mrt-access-prd    |              |             |                |                |                |
+| uc3-mrt-audit-prd     |              |             |                |                |                |
+| uc3-mrt-ingest-prd    |              |             |                |                |                |
+| uc3-mrt-inventory-prd |              |             |                |                |                |
+| uc3-mrt-replic-prd    |              |             |                |                |                |
+| uc3-mrt-store-prd     |              |             |                |                |                |
+
+
+**`mrt-tomcat-deploy` installed**
+| User       | install completed | deployment tested |
+| ---------- | ----------------- | ----------------- |
+| dloy       | X                 | X                 |
+| tbraddy    |                   |                   |
+| mreyes     |                   |                   |
+| elopatin   |                   |                   |
+
+
+
 
 [mrt-tomcat-deploy-readme]: https://github.com/CDLUC3/mrt-tomcat-deploy/blob/main/README.md
+[ReleaseManifest]: https://github.com/CDLUC3/mrt-service-release-manifest/blob/main/service-release-manifest.yaml
 
 
