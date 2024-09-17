@@ -26,10 +26,10 @@ specify the semantic version to be deployed.
 If an FQSN is missing or commented out, `mrt-tomcat-deploy` will not execute a deployment of
 that FQSN.
 
-See: [Merritt Tomcat Deploy README](mrt-tomcat-deploy-readme) for details.
+See: [Merritt Tomcat Deploy README][mrt-tomcat-deploy-readme] for details.
 
 
 
-[mrt-tomcat-deploy-readme]: [ReleaseManifest]: https://github.com/CDLUC3/mrt-tomcat-deploy/blob/main/README.md
+[mrt-tomcat-deploy-readme]: https://github.com/CDLUC3/mrt-tomcat-deploy/blob/main/README.md
 
 
