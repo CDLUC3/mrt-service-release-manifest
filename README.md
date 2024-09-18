@@ -1,4 +1,9 @@
-# mrt-service-release-manifest
+# Merritt Service Release Manifest
+
+This library is part of the [Merritt Preservation System](https://github.com/CDLUC3/mrt-doc).
+
+## Purpose
+
 Data structure defining the semantic version state of all Merritt applications
 
 
