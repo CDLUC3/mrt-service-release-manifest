@@ -11,7 +11,7 @@ uc3-mrt-ingest-stg: 2.0.0.dev09
 #uc3-mrt-inventory-prd: 1.8.3
 #uc3-mrt-inventory-stg: 1.8.3
 #uc3-mrt-replic-prd: 1.8.7
-uc3-mrt-replic-stg: 1.8.7
+uc3-mrt-replic-stg: 2.1.1
 #uc3-mrt-store-prd: 1.8.19
 #uc3-mrt-store-stg: 1.8.20
   
