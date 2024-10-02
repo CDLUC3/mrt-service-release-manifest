@@ -52,7 +52,7 @@ The following tables track the migration process for each FQSN:
 | --------------------- | ----------- | -------------- | ------------ | -------------- | -------------- |
 | uc3-mrt-access-stg    | 2.1.1       | yes            | yes          | yes            |                |
 | uc3-mrt-audit-stg     | 1.9.0       | yes            | yes          | yes            |                |
-| uc3-mrt-ingest-stg    | 2.0.0.dev09 | yes            | yes          |                |                |
+| uc3-mrt-ingest-stg    | 2.0.0.dev09 | yes            | yes          | yes            |                |
 | uc3-mrt-inventory-stg |             |                |              |                |                |
 | uc3-mrt-replic-stg    | 2.1.2       | yes            | yes          | yes            |                |
 | uc3-mrt-store-stg     | 2.1.1       | yes            | yes          | yes            |                |
@@ -69,7 +69,7 @@ The following tables track the migration process for each FQSN:
 | ---------- | ----------------- | ----------------- |
 | dloy       |  0.1.2rc1         | X                 |
 | tbraddy    |                   |                   |
-| mreyes     |                   |                   |
+| mreyes     |   yes             | X                 |
 | elopatin   |                   |                   |
 
 
