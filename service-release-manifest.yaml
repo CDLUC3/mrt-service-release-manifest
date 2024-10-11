@@ -8,7 +8,7 @@ uc3-mrt-audit-stg: 2.1.5
 uc3-mrt-ingest-prd: 2.1.2
 uc3-mrt-ingest-stg: 2.1.2
 uc3-mrt-inventory-prd: 2.1.1
-uc3-mrt-inventory-stg: 2.1.1
+uc3-mrt-inventory-stg: 2.1.2dev
 uc3-mrt-replic-prd: 2.1.2
 uc3-mrt-replic-stg: 2.1.2
 uc3-mrt-store-prd: 2.1.1
