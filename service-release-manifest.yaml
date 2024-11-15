@@ -6,7 +6,7 @@ uc3-mrt-access-stg: 2.1.1
 uc3-mrt-audit-prd: 2.1.5
 uc3-mrt-audit-stg: 2.1.5
 uc3-mrt-ingest-prd: 2.1.6
-uc3-mrt-ingest-stg: 2.1.8dev01
+uc3-mrt-ingest-stg: 2.1.8.dev01
 uc3-mrt-inventory-prd: 2.1.3
 uc3-mrt-inventory-stg: 2.1.3
 uc3-mrt-replic-prd: 2.1.2
