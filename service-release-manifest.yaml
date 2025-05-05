@@ -2,14 +2,14 @@
 # Merritt Tomcat service release manifest
 #
 uc3-mrt-access-prd: 2.3.3
-uc3-mrt-access-stg: 2.3.3
+uc3-mrt-access-stg: 2.3.4.tv404
 uc3-mrt-audit-prd: 2.3.2
-uc3-mrt-audit-stg: 2.3.2
+uc3-mrt-audit-stg: 2.3.3.tv404
 uc3-mrt-ingest-prd: 2.1.13
 uc3-mrt-ingest-stg: 2.1.14.dev01
 uc3-mrt-inventory-prd: 2.2.4
 uc3-mrt-inventory-stg: 2.3.1
 uc3-mrt-replic-prd: 2.2.3
-uc3-mrt-replic-stg: 2.3.2
+uc3-mrt-replic-stg: 2.3.3.tv404
 uc3-mrt-store-prd: 2.2.3
-uc3-mrt-store-stg: 2.3.3
+uc3-mrt-store-stg: 2.3.4.tv404
