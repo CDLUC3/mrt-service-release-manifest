@@ -22,14 +22,11 @@ ecs-tagmap:
   #   prod should always map to a tag
   #   ecs-prd: 1.0.0
   mrt-admin-sinatra:
-    # dev stacks will usually use main, can temporarily be assigned to a branch
     ecs-dev: main
     ecs-dbsnapshot: main
     ecs-ephemeral: main
-    # stage should map to a tag, but it could temporarily use a branch
-    ecs-stg: 1.0.0
-    # prod should always map to a tag
-    ecs-prd: 1.0.0
+    ecs-stg: 1.0.1
+    ecs-prd: 1.0.1
   mrt-dashboard:
     ecs-dev: main
     ecs-dbsnapshot: main
