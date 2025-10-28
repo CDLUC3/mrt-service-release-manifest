@@ -37,7 +37,7 @@ ecs-tagmap:
     ecs-dev: storageState
     ecs-ephemeral: main
   mrt-store:
-    ecs-dev: main
+    ecs-dev: storageState
     ecs-ephemeral: main
   mrt-inventory:
     ecs-dev: main
