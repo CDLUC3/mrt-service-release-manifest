@@ -28,9 +28,9 @@ ecs-tagmap:
     ecs-stg: main
     ecs-prd: main
   mrt-dashboard:
-    ecs-dev: rails8
-    ecs-dbsnapshot: rails8
-    ecs-ephemeral: rails8
+    ecs-dev: main
+    ecs-dbsnapshot: main
+    ecs-ephemeral: main
     ecs-stg: 1.7.26
     ecs-prd: 1.7.26
   mrt-ingest:
