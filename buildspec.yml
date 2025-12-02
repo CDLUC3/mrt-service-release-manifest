@@ -7,4 +7,5 @@ phases:
     commands:
     - |
       DEVBUCK=$(aws ssm get-parameter --name /uc3/mrt/config-bucket-dev --query Parameter.Value --output text)
-      aws s3 cp "*manifest.yaml" s3://${DEVBUCK}/uc3/mrt/mrt-ecs-manifest/
+      aws s3 cp ecs-release-manifest.yaml s3://${DEVBUCK}/uc3/mrt/mrt-ecs-manifest/
+      aws s3 cp service-release-manifest.yaml s3://${DEVBUCK}/uc3/mrt/mrt-ecs-manifest/
