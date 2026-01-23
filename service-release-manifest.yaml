@@ -10,6 +10,6 @@ uc3-mrt-ingest-stg: 2.4.4
 uc3-mrt-inventory-prd: 2.5.1
 uc3-mrt-inventory-stg: 2.5.3
 uc3-mrt-replic-prd: 2.5.3
-uc3-mrt-replic-stg: 2.5.4.len0
+uc3-mrt-replic-stg: 2.5.4.zlen
 uc3-mrt-store-prd: 2.5.1
 uc3-mrt-store-stg: 2.5.1
