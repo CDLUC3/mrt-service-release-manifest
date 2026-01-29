@@ -34,11 +34,11 @@ ecs-tagmap:
     ecs-stg: 1.8.0
     ecs-prd: 1.8.0
   mrt-ingest:
-    ecs-dev: storageState
-    ecs-ephemeral: storageState
+    ecs-dev: main
+    ecs-ephemeral: main
   mrt-store:
-    ecs-dev: storageState
-    ecs-ephemeral: storageState
+    ecs-dev: main
+    ecs-ephemeral: main
   mrt-inventory:
     ecs-dev: main
     ecs-ephemeral: main
