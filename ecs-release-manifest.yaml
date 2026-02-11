@@ -31,7 +31,7 @@ ecs-tagmap:
     ecs-dev: fileup2
     ecs-dbsnapshot: main
     ecs-ephemeral: main
-    ecs-stg: 1.8.0
+    ecs-stg: fileup2
     ecs-prd: 1.8.0
   mrt-ingest:
     ecs-dev: main
