@@ -32,7 +32,7 @@ ecs-tagmap:
     ecs-dbsnapshot: main
     ecs-ephemeral: main
     ecs-stg: 2.0.10
-    ecs-prd: 2.0.9
+    ecs-prd: 2.0.10
   mrt-ingest:
     ecs-dev: main
     ecs-ephemeral: main
