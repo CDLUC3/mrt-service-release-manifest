@@ -45,6 +45,7 @@ ecs-tagmap:
   mrt-audit:
     ecs-dev: main
     ecs-ephemeral: main
+    ecs-stg: main
   mrt-replic:
     ecs-dev: main
     ecs-ephemeral: main
