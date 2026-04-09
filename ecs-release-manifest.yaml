@@ -28,10 +28,10 @@ ecs-tagmap:
     ecs-stg: main
     ecs-prd: main
   mrt-dashboard:
-    ecs-dev: main
+    ecs-dev: postec2
     ecs-dbsnapshot: main
     ecs-ephemeral: main
-    ecs-stg: 2.0.10
+    ecs-stg: postec2
     ecs-prd: 2.0.10
   mrt-ingest:
     ecs-dev: main
