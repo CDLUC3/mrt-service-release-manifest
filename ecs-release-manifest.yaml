@@ -39,7 +39,7 @@ ecs-tagmap:
   mrt-store:
     ecs-dev: 3.0.4.dev01
     ecs-ephemeral: main
-    ecs-stg: 3.0.3
+    ecs-stg: 3.0.4.dev01
   mrt-inventory:
     ecs-dev: main
     ecs-ephemeral: main
