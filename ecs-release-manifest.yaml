@@ -48,7 +48,7 @@ ecs-tagmap:
   mrt-audit:
     ecs-dev: 3.0.2.cln1
     ecs-ephemeral: main
-    ecs-stg: 3.0.1
+    ecs-stg: 3.0.2.cln1
     ecs-prd: 3.0.1
   mrt-replic:
     ecs-dev: main
