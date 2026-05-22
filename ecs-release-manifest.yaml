@@ -28,7 +28,7 @@ ecs-tagmap:
     ecs-stg: main
     ecs-prd: main
   mrt-dashboard:
-    ecs-dev: debugdecou
+    ecs-dev: main
     ecs-dbsnapshot: main
     ecs-ephemeral: main
     ecs-stg: 2.1.2
