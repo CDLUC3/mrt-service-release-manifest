@@ -54,5 +54,5 @@ ecs-tagmap:
   mrt-replic:
     ecs-dev: main
     ecs-ephemeral: main
-    ecs-stg: 3.0.4
-    ecs-prd: 3.0.4
+    ecs-stg: main
+    # ecs-prd: 3.0.4
