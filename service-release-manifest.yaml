@@ -1,8 +1,8 @@
 ---
 # Merritt Tomcat service release manifest
 #
-uc3-mrt-access-prd: 2.6.2
-uc3-mrt-access-stg: 3.0.2
+# uc3-mrt-access-prd: 2.6.2
+# uc3-mrt-access-stg: 3.0.2
 # uc3-mrt-audit-prd: 2.6.2
 # uc3-mrt-audit-stg: 2.6.2
 uc3-mrt-ingest-prd: 2.4.13
