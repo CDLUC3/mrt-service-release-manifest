@@ -52,7 +52,7 @@ ecs-tagmap:
     ecs-stg: 3.0.3
     ecs-prd: 3.0.3
   mrt-replic:
-    ecs-dev: main
+    ecs-dev: 3.0.5
     ecs-ephemeral: main
-    ecs-stg: main
+    ecs-stg: 3.0.5
     # ecs-prd: 3.0.4
