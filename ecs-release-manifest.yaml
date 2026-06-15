@@ -55,4 +55,4 @@ ecs-tagmap:
     ecs-dev: 3.0.5
     ecs-ephemeral: main
     ecs-stg: 3.0.5
-    # ecs-prd: 3.0.4
+    ecs-prd: 3.0.5
