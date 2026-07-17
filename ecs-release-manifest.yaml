@@ -45,7 +45,7 @@ ecs-tagmap:
   mrt-inventory:
     ecs-dev: manyfiles
     ecs-ephemeral: main
-    ecs-stg: 3.1.1
+    ecs-stg: manyfiles
     ecs-prd: 3.1.1
   mrt-audit:
     ecs-dev: 3.1.1
