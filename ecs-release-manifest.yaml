@@ -43,7 +43,7 @@ ecs-tagmap:
     ecs-stg: 3.1.1
     ecs-prd: 3.1.1
   mrt-inventory:
-    ecs-dev: 3.1.1
+    ecs-dev: manyfiles
     ecs-ephemeral: main
     ecs-stg: 3.1.1
     ecs-prd: 3.1.1
