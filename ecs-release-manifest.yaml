@@ -34,7 +34,7 @@ ecs-tagmap:
     ecs-stg: 2.2.5
     ecs-prd: 2.2.5
   mrt-ingest:
-    ecs-dev: main
+    ecs-dev: 2.5.1.dev05
     ecs-ephemeral: main
     ecs-stg: 2.5.1.dev02
   mrt-store:
