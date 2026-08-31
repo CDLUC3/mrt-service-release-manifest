@@ -31,7 +31,7 @@ ecs-tagmap:
     ecs-dev: access0826
     ecs-dbsnapshot: main
     ecs-ephemeral: main
-    ecs-stg: 2.2.6
+    ecs-stg: access0826
     ecs-prd: 2.2.6
   mrt-ingest:
     ecs-dev: 2.5.1
