@@ -34,9 +34,9 @@ ecs-tagmap:
     ecs-stg: access0826
     ecs-prd: 2.2.6
   mrt-ingest:
-    ecs-dev: 2.5.2.dev01
+    ecs-dev: 2.5.2
     ecs-ephemeral: main
-    ecs-stg: 2.5.2.dev01
+    ecs-stg: 2.5.2
   mrt-store:
     ecs-dev: main
     ecs-ephemeral: main
