@@ -41,12 +41,12 @@ ecs-tagmap:
   mrt-store:
     ecs-dev: main
     ecs-ephemeral: main
-    ecs-stg: 3.2.1
+    ecs-stg: 3.2.2
     ecs-prd: 3.2.1
   mrt-inventory:
     ecs-dev: main
     ecs-ephemeral: main
-    ecs-stg: 3.2.1
+    ecs-stg: 3.2.2
     ecs-prd: 3.2.1
   mrt-audit:
     ecs-dev: main
