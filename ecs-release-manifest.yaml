@@ -51,10 +51,10 @@ ecs-tagmap:
   mrt-audit:
     ecs-dev: main
     ecs-ephemeral: main
-    ecs-stg: 3.2.1
+    ecs-stg: 3.2.2
     ecs-prd: 3.2.1
   mrt-replic:
     ecs-dev: main
     ecs-ephemeral: main
-    ecs-stg: 3.2.1
+    ecs-stg: 3.2.2
     ecs-prd: 3.2.1
