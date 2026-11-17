@@ -42,19 +42,19 @@ ecs-tagmap:
     ecs-dev: main
     ecs-ephemeral: main
     ecs-stg: 3.2.3
-    ecs-prd: 3.2.1
+    ecs-prd: 3.2.3
   mrt-inventory:
     ecs-dev: main
     ecs-ephemeral: main
     ecs-stg: 3.2.3
-    ecs-prd: 3.2.1
+    ecs-prd: 3.2.3
   mrt-audit:
     ecs-dev: main
     ecs-ephemeral: main
     ecs-stg: 3.2.2
-    ecs-prd: 3.2.1
+    ecs-prd: 3.2.2
   mrt-replic:
     ecs-dev: main
     ecs-ephemeral: main
     ecs-stg: 3.2.2
-    ecs-prd: 3.2.1
+    ecs-prd: 3.2.2
